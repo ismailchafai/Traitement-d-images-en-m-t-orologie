@@ -43,5 +43,5 @@ Le projet est développé en **Python 3.10+** et s’appuie sur les bibliothèqu
 
 ```bash
 git clone https://github.com/votre-utilisateur/sat-weather-processor.git](https://github.com/ismailchafai/Traitement-d-images-en-m-t-orologie.git
-cd sat-weather-processor
+cd Traitement-d-images-en-m-t-orologie
 
